@@ -9,7 +9,7 @@ return (
     <div className="container">
   <nav className="navbar navbar-expand-lg bg-body-tertiary">
     <div className="container-fluid">
-      <a className="navbar-brand">Navbar</a>
+      <div className="navbar-brand">Job Canvas Temp Navbar</div>
     </div>
   </nav>
 </div>
